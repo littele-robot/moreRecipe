@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BBB",
+    "BAB",
+    "BCB"
+  ],
+  "key": {
+    "A": "minecraft:dragon_head",
+    "B": "minecraft:glass_bottle",
+    "C": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "minecraft:dragon_breath",
+    "count": 7
+  }
+}

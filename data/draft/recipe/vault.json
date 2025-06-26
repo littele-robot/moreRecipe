@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "AAA"
+  ],
+  "key": {
+    "A": "minecraft:tuff",
+    "B": "minecraft:diamond",
+    "C": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "minecraft:vault",
+    "count": 1
+  }
+}

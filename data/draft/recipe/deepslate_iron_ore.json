@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BAB",
+    "ABA"
+  ],
+  "key": {
+    "A": "minecraft:deepslate",
+    "B": [
+      "minecraft:raw_iron",
+      "minecraft:iron_ingot"
+    ]
+  },
+  "result": {
+    "id": "minecraft:deepslate_iron_ore",
+    "count": 4
+  }
+}

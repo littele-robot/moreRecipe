@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "#minecraft:creeper_drop_music_discs",
+  "result": {
+    "id": "music_disc_pigstep",
+    "count": 1
+  }
+}

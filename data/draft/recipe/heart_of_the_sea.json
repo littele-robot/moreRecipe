@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "ABA",
+    " A "
+  ],
+  "key": {
+    "B": "minecraft:conduit",
+    "A": "minecraft:nautilus_shell"
+  },
+  "result": {
+    "id": "minecraft:heart_of_the_sea",
+    "count": 5
+  }
+}

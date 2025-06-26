@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BAB",
+    "ABA"
+  ],
+  "key": {
+    "A": "minecraft:stone",
+    "B": "minecraft:emerald"
+  },
+  "result": {
+    "id": "minecraft:emerald_ore",
+    "count": 4
+  }
+}

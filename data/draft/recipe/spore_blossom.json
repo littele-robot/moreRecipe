@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " A ",
+    "B B",
+    "   "
+  ],
+  "key": {
+    "A": "minecraft:moss_carpet",
+    "B": "minecraft:pink_petals"
+  },
+  "result": {
+    "id": "minecraft:spore_blossom",
+    "count": 1
+  }
+}
