@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "minecraft:brick",
-  "result": {
-    "id": "minecraft:plenty_pottery_sherd",
-    "count": 1
-  }
-}

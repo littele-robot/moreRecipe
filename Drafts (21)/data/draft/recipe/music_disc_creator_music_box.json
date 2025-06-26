@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": "#minecraft:creeper_drop_music_discs",
-  "result": {
-    "id": "minecraft:music_disc_creator_music_box",
-    "count": 1
-  }
-}
