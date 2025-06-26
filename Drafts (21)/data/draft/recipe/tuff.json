@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BA ",
+    "AB ",
+    "   "
+  ],
+  "key": {
+    "A": "minecraft:andesite",
+    "B": "minecraft:quartz"
+  },
+  "result": {
+    "id": "tuff",
+    "count": 4
+  }
+}

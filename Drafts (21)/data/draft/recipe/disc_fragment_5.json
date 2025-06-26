@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": "minecraft:echo_shard",
+    "B": "#minecraft:creeper_drop_music_discs"
+  },
+  "result": {
+    "id": "minecraft:disc_fragment_5",
+    "count": 1
+  }
+}

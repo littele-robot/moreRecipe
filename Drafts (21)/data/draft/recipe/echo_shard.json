@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AB ",
+    "BAB",
+    " BA"
+  ],
+  "key": {
+    "A": "minecraft:echo_shard",
+    "B": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "minecraft:echo_shard",
+    "count": 7
+  },
+  "show_notification": false
+}

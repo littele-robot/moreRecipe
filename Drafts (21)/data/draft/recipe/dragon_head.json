@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BCB",
+    "CDA",
+    "CCC"
+  ],
+  "key": {
+    "A": "minecraft:dragon_breath",
+    "B": "minecraft:polished_tuff_wall",
+    "C": "minecraft:polished_deepslate",
+    "D": "minecraft:piston"
+  },
+  "result": {
+    "id": "minecraft:dragon_head",
+    "count": 1
+  }
+}

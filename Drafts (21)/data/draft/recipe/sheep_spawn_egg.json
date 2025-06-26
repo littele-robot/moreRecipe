@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "ACA",
+    "ADA"
+  ],
+  "key": {
+    "A": "minecraft:white_dye",
+    "B": "#minecraft:wool",
+    "C": "minecraft:nether_star",
+    "D": "minecraft:turtle_egg"
+  },
+  "result": {
+    "id": "minecraft:sheep_spawn_egg",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ABA",
+    "BAB",
+    "ABA"
+  ],
+  "key": {
+    "A": "minecraft:stone",
+    "B": "minecraft:lapis_lazuli"
+  },
+  "result": {
+    "id": "minecraft:lapis_ore",
+    "count": 4
+  }
+}
