@@ -6,11 +6,11 @@
     "ABA"
   ],
   "key": {
-    "A": "minecraft:stone",
-    "B": "minecraft:lapis_lazuli"
+    "A": "minecraft:lapis_lazuli",
+    "B": "minecraft:stone"
   },
   "result": {
     "id": "minecraft:lapis_ore",
-    "count": 4
+    "count": 1
   }
 }
