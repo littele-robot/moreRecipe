@@ -13,7 +13,9 @@
     "id": "minecraft:enchanted_book",
     "components": {
       "minecraft:enchantments": {
-        "levels": {}
+        "levels": {"
+            "minecraft:silk_touch": 1
+          "}
       }
     },
     "count": 1
